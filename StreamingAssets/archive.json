@@ -1,0 +1,7 @@
+{
+    "video_urls":
+    {
+        "main": "https://pandora-ingame-banner.s3-ap-southeast-1.amazonaws.com/X10Reel2020.mp4",
+        "cats": "https://pandora-ingame-banner.s3-ap-southeast-1.amazonaws.com/edit_cats.mp4"
+    }
+}
