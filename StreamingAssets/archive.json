@@ -1,7 +1,9 @@
 {
     "video_urls":
     {
-        "main": "https://pandora-ingame-banner.s3-ap-southeast-1.amazonaws.com/X10Reel2020.mp4",
-        "cats": "https://pandora-ingame-banner.s3-ap-southeast-1.amazonaws.com/edit_cats.mp4"
+        "main": "yes, url has been changed",
+        "main_url": "https://pandora-ingame-banner.s3-ap-southeast-1.amazonaws.com/X10Reel2020.mp4",
+        "cats": "finally, some good f**king code\n- Gordon Ramsey",
+        "cats_url": "https://pandora-ingame-banner.s3-ap-southeast-1.amazonaws.com/edit_cats.mp4"
     }
 }
