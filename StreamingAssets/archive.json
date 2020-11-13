@@ -1,9 +1,7 @@
 {
     "video_urls":
     {
-        "main": "updated at 1:06 PM 11/06/2020",
-        "main_url": "https://pandora-ingame-banner.s3-ap-southeast-1.amazonaws.com/X10Reel2020.mp4",
-        "cats": "finally, some good f**king code",
-        "cats_url": "https://pandora-ingame-banner.s3-ap-southeast-1.amazonaws.com/edit_cats.mp4"
+        "main": "https://pandora-ingame-banner.s3-ap-southeast-1.amazonaws.com/X10Reel2020.mp4",
+        "cats": "https://pandora-ingame-banner.s3-ap-southeast-1.amazonaws.com/edit_cats.mp4"
     }
 }
